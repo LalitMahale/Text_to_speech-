@@ -1,5 +1,3 @@
-from email.mime import audio
-from operator import gt
 import streamlit as st
 from gtts import gTTS 
 import os 
