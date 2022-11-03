@@ -11,6 +11,6 @@ if st.button("Convert"):
 
     text_obj = gTTS(text=text, lang="en",slow=False)
     text_obj.save("temp.mp3")
-    os.system("temp.mp3")
+    st.audio("temp.mp3")
 
 
