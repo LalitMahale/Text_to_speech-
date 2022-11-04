@@ -1,7 +1,7 @@
 
 import streamlit as st
 from gtts import gTTS 
-import  PyPDF2
+import PyPDF2
 
 st.header("Convert Your Text into Speech or Speech into Text and PDF to Speech ")
 
