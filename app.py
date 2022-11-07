@@ -42,7 +42,7 @@ elif out == "Developer":
 
     st.image("developer.jpg")
     st.title("Developer ")
-    st.header("""Hi, I'm **Lalit Mahale**, I have done My Post Graduate Diploma in Artificial Intelligence in Artificial Intelligent from CDAC (act's) Pune """)
+    st.header("""Hi, I'm **Lalit Mahale**, I have done My Post Graduate Diploma in Artificial Intelligence from CDAC (act's) Pune """)
     if st.button("Contact"):
         gits = "For see read and download code plz visite my github link \n **https://github.com/LalitMahale/Text_to_speech-**"
         lin = "Follow at Linkdin - **https://www.linkedin.com/in/lalitmahale1997**"
