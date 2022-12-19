@@ -40,7 +40,7 @@ elif out == "PDF To Speech":
                 st.write(text)
 elif out == "Developer":
 
-    st.image("developer.jpg")
+    st.image("developer.gif")
     st.title("Developer ")
     st.header("""Hi, I'm **Lalit Mahale**, I have done My Post Graduate Diploma in Artificial Intelligence from CDAC (act's) Pune """)
     if st.button("Contact"):
